@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3==3.9,hostpython3==3.9,kivy,kivymd,pillow,twilio,firebase-admin,numpy,requests, wrapt, six, openssl, urllib3, chardet, idna, python-jwt, cryptography, pyparsing, google-auth, cachetools, pyasn1, pyasn1_modules, rsa, google-api-python-client, google-cloud-storage, google-cloud-firestore, google-api-core,  protobuf, cachecontrol, gcloud, google-cloud, httplib2,cachecontrol,certifi,charset-normalizer,google-auth-httplib2,google-cloud-core,google-resumable-media,googleapis-common-protos,grpcio,grpcio-status,msgpack,proto-plus,uritemplate,plyer, peewee, pyrebase4, requests-toolbelt,protobuf_cpp, oauth2client, pycryptodome, jwcrypto,mapview,geocoder,email-validator,ratelim,decorator,click,dnspython,virtualenv,sh,requests-toolbelt,pygments,ptyprocess,platformdirs,pexpect,kivy-garden.mapview,kivy-garden,jws,googleapis-common-protos,gcloud,future,filelock,docutils,distlib,backports.entry-points-selectable,Deprecated,wrapt
+requirements = python3,kivy,kivymd,pillow,twilio,firebase-admin,numpy,requests, wrapt, six, openssl, urllib3, chardet, idna, python-jwt, cryptography, pyparsing, google-auth, cachetools, pyasn1, pyasn1_modules, rsa, google-api-python-client, google-cloud-storage, google-cloud-firestore, google-api-core,  protobuf, cachecontrol, gcloud, google-cloud, httplib2,cachecontrol,certifi,charset-normalizer,google-auth-httplib2,google-cloud-core,google-resumable-media,googleapis-common-protos,grpcio,grpcio-status,msgpack,proto-plus,uritemplate,plyer, peewee, pyrebase4, requests-toolbelt,protobuf_cpp, oauth2client, pycryptodome, jwcrypto,mapview,geocoder,email-validator,ratelim,decorator,click,dnspython,virtualenv,sh,requests-toolbelt,pygments,ptyprocess,platformdirs,pexpect,kivy-garden.mapview,kivy-garden,jws,googleapis-common-protos,gcloud,future,filelock,docutils,distlib,backports.entry-points-selectable,Deprecated,wrapt
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
@@ -64,7 +64,7 @@ orientation = portrait
 # author = © Copyright Info
 
 # change the major version of python used by the app
-osx.python_version = 3.9
+osx.python_version = 3
 
 # Kivy version to use
 osx.kivy_version = 1.9.1
